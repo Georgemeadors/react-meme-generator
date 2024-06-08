@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 550px;
+    height: 65px;
+    background:linear-gradient(90.41deg, #711F8D 1.14%,#A818DA 100%)
+}
+
+.navbar-image {
+    margin-left: 10px;
+
+}
+
+.navbar-text {
+    color: white;
+    margin-right: 10px;
+}
