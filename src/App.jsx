@@ -1,3 +1,4 @@
+import {useState} from 'react'
 import Navbar from "./Navbar.jsx"
 import "./Navbar.css"
 import Meme from "./Meme.jsx"
