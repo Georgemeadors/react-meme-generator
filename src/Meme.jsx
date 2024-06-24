@@ -12,7 +12,7 @@ function getMemeImage(event) {
   
   const memesArray = memesData.data.memes
   const randomNumber = Math.floor(Math.random() * memesArray.length)
-  console.log(memesArray[randomNumber].url);
+  // console.log(memesArray[randomNumber].url);
   setMemeImage(memesArray[randomNumber].url);
 }
    
